@@ -20,7 +20,7 @@ The advanced brush engine features particle-based technology that replicates the
 Artists can choose from hundreds of customizable brushes that accurately simulate oils, watercolors, pastels, pencils, and other traditional media. The natural media tools include specialized features for impasto painting, watercolor diffusion, and charcoal sketching with authentic paper grain interactions. This digital artistry platform supports the complete creative process from initial sketch to finished masterpiece, making it essential for professional illustrators, concept artists, and fine artists working in digital formats.
 
 <div align="center">
-  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBddWwKrXMZNGyWSrgVsM_mGNGxzKESl99NuzUldhCNwoQ6shz2BX2mi6izv5MjIRvmzL.uNHNcjkit2f9J31Nkw-&format=source" alt="Corel Painter Interface"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/G8SzBxfDvcdTCB4h7AVejM.jpg" alt="Corel Painter Interface"/>
 </div>
 
 ---
